@@ -10,7 +10,7 @@ function SimpleContainer() {
       <CssBaseline />
       <Container maxWidth="m">
         <Box sx={{ bgcolor: "#90caf9", height: "100vh" }}>
-          <GridTitle title={"Welcome"} />
+          <GridTitle title={"Welcome to my store made by React"} />
         </Box>
       </Container>
     </React.Fragment>

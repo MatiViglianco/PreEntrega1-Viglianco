@@ -13,7 +13,7 @@ import AdbIcon from "@mui/icons-material/Adb";
 import Tooltip from "@mui/material/Tooltip";
 import CartButton from "./Cartwidget";
 
-const pages = ["Products", "Pricing", "Blog"];
+const pages = ["Products", "Pricing", "About us"];
 
 const ResponsiveAppBar = () => {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
